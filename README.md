@@ -1,18 +1,1 @@
-<p align="center">
-, 17 years old ! | 04/23/09 ,
-
-<p align="center">
-, Aerospace engineering / Possible Airforce ,
-
-<p align="center">
-, I am a stupid Masochist ,
-
-<p align="center">
-, Severe Depression & Anxiety / Possible PDID but I cant get fucking tested bc my family sucks ,
-
-<p align="center">
-, I do NOT have a good family home!! </3 ,
-
-<p align="center">
-, I have three dogs! ,
 
