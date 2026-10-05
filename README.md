@@ -1,39 +1,40 @@
 
+
+
  <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3a65936b-c539-4f8c-a117-60fbabb2c068" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3a65936b-c539-4f8c-a117-60fbabb2c068" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/3a65936b-c539-4f8c-a117-60fbabb2c068" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6db3bc64-2c55-4f74-84cd-f7524ef19962" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6db3bc64-2c55-4f74-84cd-f7524ef19962" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/6db3bc64-2c55-4f74-84cd-f7524ef19962" 
   </picture width="200">
 
 
 
 <p align="center">
- $\color{#E39600}\text{ DEAFF/TONE }$
+ $\color{#1D8014}\text{ DEAFF/TONE }$
 <p align="center">
- $\color{#E39600}\text{17yr}\color{#22C211}\text{ | it , he[masc] }$
+ $\color{#1D8014}\text{17yr}\color{#22C211}\text{ | it , he[masc] }$
 <p align="center">
-$\color{#E39600}\text{read CARDD }\color{#C40606}\text{ for info b4 int'ing }$
+$\color{#7CC276}\text{read CARDD }\color{#22C211}\text{ for info b4 int'ing }$
 <p align="center">
- $\color{#06C4BC}\text{ Coil Heavy Kin and Main on Phighting }$
+ $\color{#7CC276}\text{ Ryūjin no ken wo kurae! }$
 
 
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6cf968cd-86b0-415d-adec-913613e8ed2a" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6cf968cd-86b0-415d-adec-913613e8ed2a" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/6cf968cd-86b0-415d-adec-913613e8ed2a" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1fb58aa6-9d9e-4f38-a19e-8b6c9d9b4fcc" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1fb58aa6-9d9e-4f38-a19e-8b6c9d9b4fcc" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/1fb58aa6-9d9e-4f38-a19e-8b6c9d9b4fcc" 
   </picture width="300">
 
 
 
-
 <p align="center">
- $\color{#E39600}\text{ IWC at all times }$
+ $\color{#7CC276}\text{ IWC at all times }$
 <p align="center">
- $\color{#06C4BC}\text{GAD, MDD, PTSD}$
+ $\color{#1D8014}\text{GAD, MDD, PTSD}$
 
 
   <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bdb55a4a-e73c-4315-b425-4f123877ed87" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bdb55a4a-e73c-4315-b425-4f123877ed87" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/bdb55a4a-e73c-4315-b425-4f123877ed87" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0c3bda27-97ba-431a-bfd3-bddf310d6c12" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0c3bda27-97ba-431a-bfd3-bddf310d6c12" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/0c3bda27-97ba-431a-bfd3-bddf310d6c12" 
   </picture width="200">
