@@ -38,3 +38,11 @@ $\color{#7CC276}\text{read CARDD }\color{#22C211}\text{ for info b4 int'ing }$
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0c3bda27-97ba-431a-bfd3-bddf310d6c12" width="300">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/0c3bda27-97ba-431a-bfd3-bddf310d6c12" 
   </picture width="200">
+
+
+
+ <p align="center">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fb40cb5d-6544-4460-b074-780486d2de06" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fb40cb5d-6544-4460-b074-780486d2de06" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/fb40cb5d-6544-4460-b074-780486d2de06" 
+  </picture width="200">
