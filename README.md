@@ -48,4 +48,4 @@ $\color{#7CC276}\text{read CARDD }\color{#22C211}\text{ for info b4 int'ing }$
   </picture width="200">
 
 <p align="center">
- $\color{#7CC276}\text{ #loveyoubothyou'resocool @rory & @sling !!! }$
+ $\color{#7CC276}\text{ hashtag loveyoubothyou'resocool @rory & @sling !!! }$
