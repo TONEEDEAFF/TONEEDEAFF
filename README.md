@@ -46,3 +46,6 @@ $\color{#7CC276}\text{read CARDD }\color{#22C211}\text{ for info b4 int'ing }$
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fb40cb5d-6544-4460-b074-780486d2de06" width="300">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/fb40cb5d-6544-4460-b074-780486d2de06" 
   </picture width="200">
+
+<p align="center">
+ $\color{#7CC276}\text{ #loveyoubothyou'resocool @rory & @sling !!! }$
