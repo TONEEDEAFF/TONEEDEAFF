@@ -1,43 +1,46 @@
 
 
 
+
+
+
  <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6db3bc64-2c55-4f74-84cd-f7524ef19962" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6db3bc64-2c55-4f74-84cd-f7524ef19962" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/6db3bc64-2c55-4f74-84cd-f7524ef19962" 
-  </picture width="200">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/85ade002-8fce-494c-9712-9ff7c632bf13" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/85ade002-8fce-494c-9712-9ff7c632bf13" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/85ade002-8fce-494c-9712-9ff7c632bf13" 
+  </picture width="400">
 
 
 
 <p align="center">
- $\color{#1D8014}\text{ DEAFF/TONE }$
+ $\color{#2B6161}\text{ DEAFF/TONE }$
 <p align="center">
- $\color{#1D8014}\text{17yr}\color{#22C211}\text{ | it , he[masc] }$
+ $\color{#2B6161}\text{17yr}\color{#2B614A}\text{ | it , he[masc] }$
 <p align="center">
-$\color{#7CC276}\text{read CARDD }\color{#22C211}\text{ for info b4 int'ing }$
+$\color{#2B3461}\text{read CARDD }\color{#2B614A}\text{ for info b4 int'ing }$
 <p align="center">
- $\color{#7CC276}\text{ -15 dni }$
+ $\color{#2B3461}\text{ -15 dni }$
 
 
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1fb58aa6-9d9e-4f38-a19e-8b6c9d9b4fcc" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1fb58aa6-9d9e-4f38-a19e-8b6c9d9b4fcc" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/1fb58aa6-9d9e-4f38-a19e-8b6c9d9b4fcc" 
-  </picture width="300">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6ce2904d-ccfc-41d7-95c4-9d8f3e1cce5e" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6ce2904d-ccfc-41d7-95c4-9d8f3e1cce5e" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/6ce2904d-ccfc-41d7-95c4-9d8f3e1cce5e" 
+  </picture width="500">
 
 
 
 <p align="center">
- $\color{#7CC276}\text{ IWC at all times }$
+ $\color{#2B3461}\text{ IWC at all times }$
 <p align="center">
- $\color{#1D8014}\text{GAD, MDD, PTSD}$
+ $\color{#2B6161}\text{GAD, MDD, PTSD}$
 
 
   <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0c3bda27-97ba-431a-bfd3-bddf310d6c12" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0c3bda27-97ba-431a-bfd3-bddf310d6c12" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/0c3bda27-97ba-431a-bfd3-bddf310d6c12" 
-  </picture width="200">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b73c538a-36ab-44f6-b8e2-4c550215f0a5" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b73c538a-36ab-44f6-b8e2-4c550215f0a5" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/b73c538a-36ab-44f6-b8e2-4c550215f0a5" 
+  </picture width="400">
 
 
 
@@ -48,4 +51,4 @@ $\color{#7CC276}\text{read CARDD }\color{#22C211}\text{ for info b4 int'ing }$
   </picture width="200">
 
 <p align="center">
- $\color{#7CC276}\text{ hashtag loveyoubothyou'resocool @rory and @sling !!! }$
+ $\color{#2B3461}\text{ hashtag loveyoubothyou'resocool @rory and @sling !!! }$
