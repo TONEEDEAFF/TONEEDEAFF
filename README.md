@@ -16,7 +16,7 @@
 <p align="center">
 $\color{#7CC276}\text{read CARDD }\color{#22C211}\text{ for info b4 int'ing }$
 <p align="center">
- $\color{#7CC276}\text{ Ryūjin no ken wo kurae! }$
+ $\color{#7CC276}\text{ -15 dni }$
 
 
 <p align="center">
