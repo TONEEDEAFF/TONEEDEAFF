@@ -11,13 +11,12 @@
   </picture width="400">
 
 
-
 <p align="center">
  $\color{#2B6161}\text{ DEAFF/TONE }$
 <p align="center">
  $\color{#2B6161}\text{17yr}\color{#2B614A}\text{ | it , he[masc] }$
 <p align="center">
-$\color{#2B3461}\text{read CARDD }\color{#2B614A}\text{ for info b4 int'ing }$
+<a href="https://decaying.xyz/tonedeaf" target="_blank">Ⓓⓔⓒⓐⓨⓘⓝⓖ</a> || <a href="https://tonecomms.straw.page/" target="_blank">ⓒⓞⓜⓜⓢ</a> || <a href="https://pronouns.cc/@TONEDEAFF" target="_blank">Ⓟⓡⓝⓢ.ⓒⓒ</a>
 <p align="center">
  $\color{#2B3461}\text{ -15 dni }$
 
