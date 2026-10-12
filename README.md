@@ -1,10 +1,4 @@
-
-
-
-
-
-
- <p align="center">
+<p align="center">
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/85ade002-8fce-494c-9712-9ff7c632bf13" width="300">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/85ade002-8fce-494c-9712-9ff7c632bf13" width="300">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/85ade002-8fce-494c-9712-9ff7c632bf13" 
