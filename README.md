@@ -1,3 +1,7 @@
+hi, idc read this if u want im tired
+<a href="https://docs.google.com/document/d/10cBgITc9weAUh7tgO26eIkGqhXCTrquZE-wCvkw03Ls/edit?tab=t.0 " target="_blank">doc</a>
+
+
 <p align="center">
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/85ade002-8fce-494c-9712-9ff7c632bf13" width="300">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/85ade002-8fce-494c-9712-9ff7c632bf13" width="300">
