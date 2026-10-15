@@ -1,5 +1,5 @@
-hi, idc read this if u want im tired
-<a href="https://docs.google.com/document/d/10cBgITc9weAUh7tgO26eIkGqhXCTrquZE-wCvkw03Ls/edit?tab=t.0 " target="_blank">doc</a>
+hi, i updated this auhh
+<a href="https://docs.google.com/document/d/1aEqX71fy04ArVBbH9dJ-ezQ-AE6Vvrtu7n6wATBYITM/edit?tab=t.0" target="_blank">doc</a>
 
 
 <p align="center">
