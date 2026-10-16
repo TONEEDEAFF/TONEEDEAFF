@@ -2,11 +2,12 @@ hi, i updated this auhh
 <a href="https://docs.google.com/document/d/1aEqX71fy04ArVBbH9dJ-ezQ-AE6Vvrtu7n6wATBYITM/edit?tab=t.0" target="_blank">doc</a>
 
 
+
 <p align="center">
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/28b84fa5-82a4-41a1-8301-1d335ce67369" width="300">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/28b84fa5-82a4-41a1-8301-1d335ce67369" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/28b84fa5-82a4-41a1-8301-1d335ce6736" 
-  </picture width="400">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/28b84fa5-82a4-41a1-8301-1d335ce67369" 
+  </picture width="500">
 
 
 <p align="center">
