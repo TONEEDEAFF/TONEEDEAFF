@@ -4,10 +4,10 @@ hi, i updated this again, Loser
 
 
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/28b84fa5-82a4-41a1-8301-1d335ce67369" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/28b84fa5-82a4-41a1-8301-1d335ce67369" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/28b84fa5-82a4-41a1-8301-1d335ce67369" 
-  </picture width="500">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/716128da-0b3c-429f-9c4e-f45647aec546" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/716128da-0b3c-429f-9c4e-f45647aec546" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/716128da-0b3c-429f-9c4e-f45647aec546" 
+  </picture width="400">
 
 
 <p align="center">
@@ -21,11 +21,10 @@ hi, i updated this again, Loser
 
 
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/01aae6fd-2a53-499a-b037-f62596d650b1" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/01aae6fd-2a53-499a-b037-f62596d650b1" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/01aae6fd-2a53-499a-b037-f62596d650b1" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/15aa7ead-48ff-429a-a608-836e49105ae2" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/15aa7ead-48ff-429a-a608-836e49105ae2" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/15aa7ead-48ff-429a-a608-836e49105ae2" 
   </picture width="500">
-
 
 
 <p align="center">
@@ -34,10 +33,11 @@ hi, i updated this again, Loser
  $\color{#5C728A}\text{GAD, MDD, PTSD}$
 
 
+
   <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/efaa3143-41e7-4dee-88cf-f0ed7c45f20e" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/efaa3143-41e7-4dee-88cf-f0ed7c45f20e" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/efaa3143-41e7-4dee-88cf-f0ed7c45f20e" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/66fe293e-2c17-4681-947b-cd7e162ebd08" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/66fe293e-2c17-4681-947b-cd7e162ebd08" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/66fe293e-2c17-4681-947b-cd7e162ebd08" 
   </picture width="400">
 
 
