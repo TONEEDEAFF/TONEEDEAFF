@@ -20,11 +20,12 @@ hi, i updated this again, Loser
  $\color{#5C868A}\text{ -15 dni }$
 
 
+
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/15aa7ead-48ff-429a-a608-836e49105ae2" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/15aa7ead-48ff-429a-a608-836e49105ae2" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/15aa7ead-48ff-429a-a608-836e49105ae2" 
-  </picture width="500">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e6b76d2e-69c5-43b1-b404-a50f7629bd11" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e6b76d2e-69c5-43b1-b404-a50f7629bd11" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/e6b76d2e-69c5-43b1-b404-a50f7629bd11" 
+  </picture width="300">
 
 
 <p align="center">
