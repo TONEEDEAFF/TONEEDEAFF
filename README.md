@@ -37,6 +37,6 @@
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/127158b7-c9b3-435d-8446-0d9653e116a8" width="300">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/127158b7-c9b3-435d-8446-0d9653e116a8" width="300">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/127158b7-c9b3-435d-8446-0d9653e116a8" 
-  </picture width="600">
+  </picture width="400">
 
 
