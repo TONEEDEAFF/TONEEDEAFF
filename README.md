@@ -1,14 +1,10 @@
-hi, i updated this again, Loser
-<a href="https://docs.google.com/document/d/1aEqX71fy04ArVBbH9dJ-ezQ-AE6Vvrtu7n6wATBYITM/edit?tab=t.0" target="_blank">doc</a>
-
-
 
 
 
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2299ed90-fc9d-499a-ab48-c9f4c0ee1c36" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2299ed90-fc9d-499a-ab48-c9f4c0ee1c36" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/2299ed90-fc9d-499a-ab48-c9f4c0ee1c36" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5595a13b-0820-47bf-a318-9964b13fabb3" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5595a13b-0820-47bf-a318-9964b13fabb3" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/5595a13b-0820-47bf-a318-9964b13fabb3" 
   </picture width="300">
 
 
@@ -24,9 +20,9 @@ hi, i updated this again, Loser
 
 
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c27234c3-959f-4c38-9a27-21c3c5a6eb92" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c27234c3-959f-4c38-9a27-21c3c5a6eb92" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/c27234c3-959f-4c38-9a27-21c3c5a6eb92" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c27e736c-ec14-4d93-bbfb-cc92b07dc2d9" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c27e736c-ec14-4d93-bbfb-cc92b07dc2d9" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/c27e736c-ec14-4d93-bbfb-cc92b07dc2d9" 
   </picture width="600">
 
 
@@ -38,9 +34,9 @@ hi, i updated this again, Loser
 
 
   <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/0b77d4df-490f-4154-b18a-5ca2e8fc8719" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0b77d4df-490f-4154-b18a-5ca2e8fc8719" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/0b77d4df-490f-4154-b18a-5ca2e8fc8719" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/127158b7-c9b3-435d-8446-0d9653e116a8" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/127158b7-c9b3-435d-8446-0d9653e116a8" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/127158b7-c9b3-435d-8446-0d9653e116a8" 
   </picture width="600">
 
 
