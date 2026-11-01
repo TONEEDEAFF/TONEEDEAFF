@@ -2,10 +2,10 @@
 
 
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4042a43b-06a1-4d28-a6b9-f2e83a69d3d3" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4042a43b-06a1-4d28-a6b9-f2e83a69d3d3" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/4042a43b-06a1-4d28-a6b9-f2e83a69d3d3" 
-  </picture width="300">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/965a35d2-576c-4270-84de-797119773063" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/965a35d2-576c-4270-84de-797119773063" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/965a35d2-576c-4270-84de-797119773063" 
+  </picture width="200">
 
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 
 <p align="center">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3c4a8c04-ca49-40d4-9566-3018ae06bd54" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3c4a8c04-ca49-40d4-9566-3018ae06bd54" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/3c4a8c04-ca49-40d4-9566-3018ae06bd54" 
-  </picture width="600">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a0841db7-1c35-4577-85c1-2b6d4d95f361" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a0841db7-1c35-4577-85c1-2b6d4d95f361" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/a0841db7-1c35-4577-85c1-2b6d4d95f361" 
+  </picture width="500">
 
 
 <p align="center">
@@ -34,9 +34,9 @@
 
 
   <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/759c4262-697d-4bc1-8ee6-360841fdc2a4" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/759c4262-697d-4bc1-8ee6-360841fdc2a4" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/759c4262-697d-4bc1-8ee6-360841fdc2a4" 
-  </picture width="400">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/34b4c0d9-85e3-4c6a-a1a4-c549f8e9d86f" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/34b4c0d9-85e3-4c6a-a1a4-c549f8e9d86f" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/34b4c0d9-85e3-4c6a-a1a4-c549f8e9d86f" 
+  </picture width="200">
 
 
