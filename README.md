@@ -18,11 +18,14 @@
 ---
 <p align="left">
 $$\color{#c40e08}{\text{<sup>17, 04/23<sup>}}$$
-
----
+ 
 <p align="right">
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bcf452ff-8f91-45ce-8cb1-0fb6aecbc864" width="300">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bcf452ff-8f91-45ce-8cb1-0fb6aecbc864" width="300">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/bcf452ff-8f91-45ce-8cb1-0fb6aecbc864" 
+<p align="left" width="300" height="300" hspace="20">
+  
+ ---
+<a href="https://decaying.xyz/tonedeaf" target="_blank"><sup>decaying<sup></a> || <a href="https://deaftonees.carrd.co/" target="_blank"><sup>Carrd<sup></a> || <a href="https://pronouns.cc/@TONEDEAFF" target="_blank"><sup>pronouns.cc<sup></a> || <a href="https://hashtagchemicaltones.atabook.org/" target="_blank"><sup>Atabook<sup></a> 
 
 
