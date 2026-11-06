@@ -1,0 +1,286 @@
+
+<svg width="800" height="836" viewBox="0 0 800 836" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800&amp;family=Teko:wght@500;600;700&amp;family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    text {
+      user-select: none;
+    }
+
+    .gitascii-canvas-bg {
+      fill: #0d1117;
+      transition: fill 0.3s ease;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .gitascii-canvas-bg {
+        fill: #ffffff !important;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .gitascii-canvas-bg {
+        fill: #0d1117 !important;
+      }
+    }
+  </style>
+
+  <rect class="" width="800" height="836" fill="#060606" rx="3" />
+
+  
+    <g transform="translate(0, 0)" id="widget-widget_58a633e5-9438-404d-9e25-43464b7c5b71">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="30" fill="#060606" stroke="#252525" stroke-width="1" rx="3" />
+      
+      <line x1="0" y1="15" x2="800" y2="15" stroke="#ff4a4a" stroke-width="4" />
+  
+    </g>
+  
+
+    <g transform="translate(0, 46)" id="widget-widget_ba1c9d8c-3b6b-48dc-ba8e-6243f69e1bb3">
+
+      
+      
+      
+      
+      
+    <svg x="16" y="16" width="248" height="248" viewBox="0 0 234.89999999999998 230" preserveAspectRatio="xMidYMid meet">
+      <text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="8.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">                                             </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="18.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">                         &apos;&lt;c*7CxSec.         </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="28.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">                        -!vvebZlelc;==       </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="38.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">           `-&apos;` ``:-- `.`.=|OGGFiyjZ|?;      </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="48.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">         :7toouIL^;==::_&apos;&apos;:-vy2ZaU9Hh?       </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="58.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">        _jN8EakKHn*;^=_:,__:&apos;;r)Te9]z`       </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="68.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">       &apos;l@p8ye]UdOpF&lt;&gt;__^,_:&apos;:_==^c;_:-&gt;r.   </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="78.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">       &apos;uBKwc_&gt;7eVPa(s!/=,_:&apos;&apos;_;=_::__+vJF;  </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="88.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">       .CMNY?=,=&gt;z3)&lt;+?TJ!-,:^:-^,_,&apos;,z_(o3; </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="98.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">       :cTCs&gt;,,,:-&apos;_Tz;rz&gt;c!z^=&gt;_`.&apos;_zC1i1(^ </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="108.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">       .7yC3fc_:&apos;&apos;_)2o{sIiya2(=:&gt;+?&lt;c&gt;snof^, </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="118.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">       `:ifiz,_::&apos;&apos;i6Z|Jcq8OUIrc!lJ=z&lt;=z)_&gt;}z</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="128.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">       ,|-=^-.___:/wS2Fsn9OMx=!&gt;Zw5&gt;L+;&gt;=;JVQ</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="138.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">      ^3t},`-_:::_.)P5zvFoqnszrlSOv+&gt;:&lt;=&lt;&gt;;J,</text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="148.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">     .=z3+.-&apos;:_:_&apos;&apos;.*/__&lt;;!&apos;_,&apos;^fs,=rz::_-.. </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="158.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">    .=&gt;:&gt;`_^^_:_&apos;-..`&apos;&lt;&gt;==&gt;&gt;&lt;+&lt;;^;;&gt;&gt;/&lt;,&lt;_   </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="168.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">`-`.;c!*,&apos;^^,__&apos;.-...`^!==,,;&gt;;=;=&gt;;&gt;;,==.   </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="178.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">._:_;&lt;c!:.,^^_..&apos;..`` `^r&gt;;&gt;,:,==&gt;_:_^-- -`  </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="188.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">,&apos;:_:&apos;,:.,=,:_&apos;--```. `-:;+=;&lt;c&gt;&gt;;,;++^&gt;&lt;&gt;_` </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="198.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">-::....&apos;,:,,,__...-.`-&gt;zc=&gt;;;rc/&lt;===c+r*sLr&apos; </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="208.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">_:---&apos;_,:&apos;-:&apos;&apos;-.`.--.!T//r&gt;^=^&lt;,&apos;,_:=&gt;;rvLv; </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="218.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">=__::_::_:_-``` ..&apos;.-,+rrssz:=^_,:,,:=;&apos;rT*&lt; </text>
+<text x="0.00 5.22 10.44 15.66 20.88 26.10 31.32 36.54 41.76 46.98 52.20 57.42 62.64 67.86 73.08 78.30 83.52 88.74 93.96 99.18 104.40 109.62 114.84 120.06 125.28 130.50 135.72 140.94 146.16 151.38 156.60 161.82 167.04 172.26 177.48 182.70 187.92 193.14 198.36 203.58 208.80 214.02 219.24 224.46 229.68" y="228.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="9" fill="#00ffff" xml:space="preserve">-&apos;:::___&apos;`    `.-`    .,&gt;;^&lt;+^-&apos;:_=^_;!==_-  </text>
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 342)" id="widget-widget_7c96fc7c-b95b-4be2-ad85-42e4cac6c712">
+
+      
+      
+      
+      
+      
+    <svg x="16" y="16" width="768" height="88" viewBox="0 0 640.8 72" preserveAspectRatio="xMidYMid meet">
+      <text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60" y="12.239999999999998" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#0091ff" xml:space="preserve">██████▄  ████████  ▄████▄  ████████ ████████ ████████  ▄████▄  ██    ██ ████████ ██████▄ </text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60" y="26.639999999999997" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#0091ff" xml:space="preserve">██    ██ ██       ██    ██ ██       ██          ██    ██    ██ ███   ██ ██       ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60" y="41.04" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#0091ff" xml:space="preserve">██    ██ ██████   ████████ ██████   ██████      ██    ██    ██ ██▀█  ██ ██████   ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60" y="55.44" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#0091ff" xml:space="preserve">██    ██ ██       ██    ██ ██       ██          ██    ██    ██ ██ ▀█ ██ ██       ██    ██</text>
+<text x="0.00 7.20 14.40 21.60 28.80 36.00 43.20 50.40 57.60 64.80 72.00 79.20 86.40 93.60 100.80 108.00 115.20 122.40 129.60 136.80 144.00 151.20 158.40 165.60 172.80 180.00 187.20 194.40 201.60 208.80 216.00 223.20 230.40 237.60 244.80 252.00 259.20 266.40 273.60 280.80 288.00 295.20 302.40 309.60 316.80 324.00 331.20 338.40 345.60 352.80 360.00 367.20 374.40 381.60 388.80 396.00 403.20 410.40 417.60 424.80 432.00 439.20 446.40 453.60 460.80 468.00 475.20 482.40 489.60 496.80 504.00 511.20 518.40 525.60 532.80 540.00 547.20 554.40 561.60 568.80 576.00 583.20 590.40 597.60 604.80 612.00 619.20 626.40 633.60" y="69.83999999999999" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace" font-size="12" fill="#0091ff" xml:space="preserve">██████▀  ████████ ██    ██ ██       ██          ██     ▀████▀  ██   ███ ████████ ██████▀ </text>
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(296, 38)" id="widget-widget_9fb57c8e-8345-4885-85bb-b633b084460b">
+
+      
+      
+      <rect class="" x="0" y="0" width="472" height="296" fill="#060606" stroke="#252525" stroke-width="1" rx="3" />
+      
+      
+    
+    <svg width="440" height="264" x="16" y="16" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#141414" rx="6" ry="6" stroke="#333" stroke-dasharray="4" />
+            <text x="50%" y="50%" fill="#888888" font-family="monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">Failed to load widget</text>
+          </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 478)" id="widget-widget_278a535c-f1e8-4197-800e-56f8f8f9094c">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="30" fill="#060606" stroke="#252525" stroke-width="1" rx="3" />
+      
+      <line x1="0" y1="15" x2="800" y2="15" stroke="#ff4a4a" stroke-width="4" />
+  
+    </g>
+  
+
+    <g transform="translate(0, 516)" id="widget-widget_df8d2384-314e-4785-b15a-504e55401c45">
+
+      
+          <style>
+            @keyframes typewriter-clip-widget_df8d2384-314e-4785-b15a-504e55401c45-11 {
+              from { width: 0; }
+              to { width: 384px; }
+            }
+            #widget-widget_df8d2384-314e-4785-b15a-504e55401c45 .typewriter-target {
+              animation: typewriter-clip-widget_df8d2384-314e-4785-b15a-504e55401c45-11 1900ms linear 0ms both;
+            }
+          </style>
+        
+      
+      <rect class="" x="0" y="0" width="384" height="188" fill="#060606" stroke="#252525" stroke-width="1" rx="3" />
+      
+      
+          <clipPath id="typewriter-clip-widget_df8d2384-314e-4785-b15a-504e55401c45-11">
+            <rect class="typewriter-target" x="0" y="0" width="0" height="188" />
+          </clipPath>
+          <g clip-path="url(#typewriter-clip-widget_df8d2384-314e-4785-b15a-504e55401c45-11)">
+            
+    <text x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ BIOGRAPHY ]</text>
+    <text x="360" y="60" text-anchor="end" font-family="'Inter Tight', sans-serif" font-size="14" fill="#ff4a4a">
+      <tspan x="360" dy="0">Deaff/Tone</tspan><tspan x="360" dy="20"></tspan><tspan x="360" dy="20">  `He/Him/It`</tspan><tspan x="360" dy="20"></tspan><tspan x="360" dy="20">PTSD, MDD, GAD Iwc</tspan>
+    </text>
+    <g transform="translate(24, 164)">
+      <text x="0" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#7a7a7a">📍 Read Carrd for Info -&gt;</text>
+      <a href="https://deaftonees.carrd.co/" target="_blank" rel="noopener noreferrer" cursor="pointer">
+           <text x="180" y="0" font-family="'Inter Tight', sans-serif" font-size="12" fill="#00ffff" text-decoration="underline">🌐 https://deaftonees.carrd.co/</text>
+         </a>
+    </g>
+  
+          </g>
+        
+  
+    </g>
+  
+
+    <g transform="translate(400, 516)" id="widget-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8">
+
+      
+        <style>
+          @keyframes svg-fade-in-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes svg-slide-up-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-down-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-left-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; transform: translateX(12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-slide-right-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; transform: translateX(-12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-zoom-in-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; transform: scale(0.9); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-zoom-out-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; transform: scale(1.1); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-flip-x-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
+          }
+          @keyframes svg-flip-y-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
+          }
+          @keyframes svg-glitch-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            0% { opacity: 0; transform: skewX(10deg); }
+            20% { opacity: 0.8; transform: skewX(-10deg); }
+            40% { opacity: 0.5; transform: skewX(5deg); }
+            60% { opacity: 0.9; transform: skewX(0deg); }
+            100% { opacity: 1; }
+          }
+          @keyframes svg-scan-lines-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1 {
+            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+          }
+
+          #widget-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8 .anim-target {
+            animation-name: svg-slide-left-widget_26cc73b1-fe16-4a61-97c8-f861fa4ef6f8-1;
+            animation-duration: 1500ms;
+            animation-timing-function: ease-in;
+            animation-fill-mode: both;
+          }
+        </style>
+      
+      
+      <rect class="" x="0" y="0" width="380" height="128" fill="#060606" stroke="#252525" stroke-width="1" rx="3" />
+      
+      
+    <text class="anim-target" x="24" y="32" font-family="'Inter Tight', sans-serif" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2" style="animation-delay: 0ms; transform-origin: center;">[ SOCIAL MEDIA ]</text>
+    
+        <a href="https://steamcommunity.com/id/deaftonedd" target="_blank" rel="noopener noreferrer" cursor="pointer">
+          <image class="anim-target" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4Ny4yNSIgaGVpZ2h0PSIyOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJTVEVBTSI+PHRpdGxlPlNURUFNPC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSI4Ny4yNSIgaGVpZ2h0PSIyOCIgZmlsbD0iIzAwMDAwMCIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjxpbWFnZSB4PSI5IiB5PSI3IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGhyZWY9ImRhdGE6aW1hZ2Uvc3ZnK3htbDtiYXNlNjQsUEhOMlp5Qm1hV3hzUFNKM2FHbDBaU0lnY205c1pUMGlhVzFuSWlCMmFXVjNRbTk0UFNJd0lEQWdNalFnTWpRaUlIaHRiRzV6UFNKb2RIUndPaTh2ZDNkM0xuY3pMbTl5Wnk4eU1EQXdMM04yWnlJK1BIUnBkR3hsUGxOMFpXRnRQQzkwYVhSc1pUNDhjR0YwYUNCa1BTSk5NVEV1T1RjNUlEQkROUzQyTnpnZ01DQXVOVEV4SURRdU9EWXVNREl5SURFeExqQXpOMncyTGpRek1pQXlMalkxT0dNdU5UUTFMUzR6TnpFZ01TNHlNRE10TGpVNUlERXVPVEV5TFM0MU9TNHdOak1nTUNBdU1USTFMakF3TkM0eE9EZ3VNREEyYkRJdU9EWXhMVFF1TVRReVZqZ3VPVEZqTUMweUxqUTVOU0F5TGpBeU9DMDBMalV5TkNBMExqVXlOQzAwTGpVeU5DQXlMalE1TkNBd0lEUXVOVEkwSURJdU1ETXhJRFF1TlRJMElEUXVOVEkzY3kweUxqQXpJRFF1TlRJMUxUUXVOVEkwSURRdU5USTFhQzB1TVRBMWJDMDBMakEzTmlBeUxqa3hNV013SUM0d05USXVNREEwTGpFd05TNHdNRFF1TVRVNUlEQWdNUzQ0TnpVdE1TNDFNVFVnTXk0ek9UWXRNeTR6T1NBekxqTTVOaTB4TGpZek5TQXdMVE11TURFMkxURXVNVGN6TFRNdU16TXhMVEl1TnpJM1RDNDBNellnTVRVdU1qZERNUzQ0TmpJZ01qQXVNekEzSURZdU5EZzJJREkwSURFeExqazNPU0F5TkdNMkxqWXlOeUF3SURFeExqazVPUzAxTGpNM015QXhNUzQ1T1RrdE1USlRNVGd1TmpBMUlEQWdNVEV1T1RjNUlEQjZUVGN1TlRRZ01UZ3VNakZzTFRFdU5EY3pMUzQyTVdNdU1qWXlMalUwTXk0M01UUXVPVGs1SURFdU16RTBJREV1TWpVZ01TNHlPVGN1TlRNNUlESXVOemt6TFM0d056WWdNeTR6TXpJdE1TNHpOelV1TWpZekxTNDJNeTR5TmpRdE1TNHpNVGt1TURBMUxURXVPVFE1Y3kwdU56VXRNUzR4TWpFdE1TNHpOemN0TVM0ek9ETmpMUzQyTWpRdExqSTJMVEV1TWprdExqSTBPUzB4TGpnM09DMHVNRE5zTVM0MU1qTXVOak5qTGprMU5pNDBJREV1TkRBNUlERXVOU0F4TGpBd09TQXlMalExTlMwdU16azNMamsxTnkweExqUTVOeUF4TGpReExUSXVORFUwSURFdU1ERXlTRGN1TlRSNmJURXhMalF4TlMwNUxqTXdNMk13TFRFdU5qWXlMVEV1TXpVekxUTXVNREUxTFRNdU1ERTFMVE11TURFMUxURXVOalkxSURBdE15NHdNVFVnTVM0ek5UTXRNeTR3TVRVZ015NHdNVFVnTUNBeExqWTJOU0F4TGpNMUlETXVNREUxSURNdU1ERTFJRE11TURFMUlERXVOall6SURBZ015NHdNVFV0TVM0ek5TQXpMakF4TlMwekxqQXhOWHB0TFRVdU1qY3pMUzR3TURWak1DMHhMakkxTWlBeExqQXhNeTB5TGpJMk5pQXlMakkyTlMweUxqSTJOaUF4TGpJME9TQXdJREl1TWpZMklERXVNREUwSURJdU1qWTJJREl1TWpZMklEQWdNUzR5TlRFdE1TNHdNVGNnTWk0eU5qVXRNaTR5TmpZZ01pNHlOalV0TVM0eU5UTWdNQzB5TGpJMk5TMHhMakF4TkMweUxqSTJOUzB5TGpJMk5Yb2lMejQ4TDNOMlp6ND0iLz48dGV4dCB0cmFuc2Zvcm09InNjYWxlKC4xKSIgeD0iNTM2LjI1IiB5PSIxNzUiIHRleHRMZW5ndGg9IjQzMi41IiBmb250LXdlaWdodD0iYm9sZCI+U1RFQU08L3RleHQ+PC9nPjwvc3ZnPg==" x="24" y="44" width="92" height="28" preserveAspectRatio="xMinYMid meet"  style="animation-delay: 120ms; transform-origin: center;" />
+        </a>
+      
+
+        <a href="https://discord.gg/967456620323934308" target="_blank" rel="noopener noreferrer" cursor="pointer">
+          <image class="anim-target" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDQuNzUiIGhlaWdodD0iMjgiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iRElTQ09SRCI+PHRpdGxlPkRJU0NPUkQ8L3RpdGxlPjxnIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI+PHJlY3Qgd2lkdGg9IjEwNC43NSIgaGVpZ2h0PSIyOCIgZmlsbD0iIzU4NjVmMiIvPjwvZz48ZyBmaWxsPSIjZmZmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSxHZW5ldmEsRGVqYVZ1IFNhbnMsc2Fucy1zZXJpZiIgdGV4dC1yZW5kZXJpbmc9Imdlb21ldHJpY1ByZWNpc2lvbiIgZm9udC1zaXplPSIxMDAiPjxpbWFnZSB4PSI5IiB5PSI3IiB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIGhyZWY9ImRhdGE6aW1hZ2Uvc3ZnK3htbDtiYXNlNjQsUEhOMlp5Qm1hV3hzUFNKM2FHbDBaU0lnY205c1pUMGlhVzFuSWlCMmFXVjNRbTk0UFNJd0lEQWdNalFnTWpRaUlIaHRiRzV6UFNKb2RIUndPaTh2ZDNkM0xuY3pMbTl5Wnk4eU1EQXdMM04yWnlJK1BIUnBkR3hsUGtScGMyTnZjbVE4TDNScGRHeGxQanh3WVhSb0lHUTlJazB5TUM0ek1UY2dOQzR6TmprNFlURTVMamM1TVRNZ01Ua3VOemt4TXlBd0lEQXdMVFF1T0RnMU1TMHhMalV4TlRJdU1EYzBNUzR3TnpReElEQWdNREF0TGpBM09EVXVNRE0zTVdNdExqSXhNUzR6TnpVekxTNDBORFEzTGpnMk5EZ3RMall3T0RNZ01TNHlORGsxTFRFdU9EUTBOeTB1TWpjMk1pMHpMalk0TFM0eU56WXlMVFV1TkRnMk9DQXdMUzR4TmpNMkxTNHpPVE16TFM0ME1EVTRMUzQ0TnpReUxTNDJNVGMzTFRFdU1qUTVOV0V1TURjM0xqQTNOeUF3SURBd0xTNHdOemcxTFM0d016Y2dNVGt1TnpNMk15QXhPUzQzTXpZeklEQWdNREF0TkM0NE9EVXlJREV1TlRFMUxqQTJPVGt1TURZNU9TQXdJREF3TFM0d016SXhMakF5TnpkRExqVXpNelFnT1M0d05EVTRMUzR6TVRrZ01UTXVOVGM1T1M0d09Ua3lJREU0TGpBMU56aGhMakE0TWpRdU1EZ3lOQ0F3SURBd0xqQXpNVEl1TURVMk1XTXlMakExTWpnZ01TNDFNRGMySURRdU1EUXhNeUF5TGpReU1qZ2dOUzQ1T1RJNUlETXVNREk1TkdFdU1EYzNOeTR3TnpjM0lEQWdNREF1TURnME1pMHVNREkzTm1NdU5EWXhOaTB1TmpNd05DNDROek14TFRFdU1qazFNaUF4TGpJeU5pMHhMams1TkRKaExqQTNOaTR3TnpZZ01DQXdNQzB1TURReE5pMHVNVEExTjJNdExqWTFNamd0TGpJME56WXRNUzR5TnpRekxTNDFORGsxTFRFdU9EY3lNaTB1T0RreU0yRXVNRGMzTGpBM055QXdJREF4TFM0d01EYzJMUzR4TWpjM1l5NHhNalU0TFM0d09UUXpMakkxTVRjdExqRTVNak11TXpjeE9DMHVNamt4TkdFdU1EYzBNeTR3TnpReklEQWdNREV1TURjM05pMHVNREV3TldNekxqa3lOemdnTVM0M09UTXpJRGd1TVRnZ01TNDNPVE16SURFeUxqQTJNVFFnTUdFdU1EY3pPUzR3TnpNNUlEQWdNREV1TURjNE5TNHdNRGsxWXk0eE1qQXlMakE1T1M0eU5EWXVNVGs0TVM0ek56STRMakk1TWpSaExqQTNOeTR3TnpjZ01DQXdNUzB1TURBMk5pNHhNamMySURFeUxqSTVPRFlnTVRJdU1qazROaUF3SURBeExURXVPRGN6TGpnNU1UUXVNRGMyTmk0d056WTJJREFnTURBdExqQTBNRGN1TVRBMk4yTXVNell3TkM0Mk9UZ3VOemN4T1NBeExqTTJNamdnTVM0eU1qVWdNUzQ1T1RNeVlTNHdOell1TURjMklEQWdNREF1TURnME1pNHdNamcyWXpFdU9UWXhMUzQyTURZM0lETXVPVFE1TlMweExqVXlNVGtnTmk0d01ESXpMVE11TURJNU5HRXVNRGMzTGpBM055QXdJREF3TGpBek1UTXRMakExTlRKakxqVXdNRFF0TlM0eE56Y3RMamd6T0RJdE9TNDJOek01TFRNdU5UUTROUzB4TXk0Mk5qQTBZUzR3TmpFdU1EWXhJREFnTURBdExqQXpNVEl0TGpBeU9EWjZUVGd1TURJZ01UVXVNek14TW1NdE1TNHhPREkxSURBdE1pNHhOVFk1TFRFdU1EZzFOeTB5TGpFMU5qa3RNaTQwTVRrZ01DMHhMak16TXpJdU9UVTFOUzB5TGpReE9Ea2dNaTR4TlRjdE1pNDBNVGc1SURFdU1qRXdPQ0F3SURJdU1UYzFOeUF4TGpBNU5USWdNaTR4TlRZNElESXVOREU1SURBZ01TNHpNek15TFM0NU5UVTFJREl1TkRFNE9TMHlMakUxTmprZ01pNDBNVGc1ZW0wM0xqazNORGdnTUdNdE1TNHhPREkxSURBdE1pNHhOVFk1TFRFdU1EZzFOeTB5TGpFMU5qa3RNaTQwTVRrZ01DMHhMak16TXpJdU9UVTFOQzB5TGpReE9Ea2dNaTR4TlRZNUxUSXVOREU0T1NBeExqSXhNRGdnTUNBeUxqRTNOVGNnTVM0d09UVXlJREl1TVRVMk9DQXlMalF4T1NBd0lERXVNek16TWkwdU9UUTJJREl1TkRFNE9TMHlMakUxTmpnZ01pNDBNVGc1V2lJdlBqd3ZjM1puUGc9PSIvPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSI2MjMuNzUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNjA3LjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5ESVNDT1JEPC90ZXh0PjwvZz48L3N2Zz4=" x="126" y="44" width="107" height="28" preserveAspectRatio="xMinYMid meet"  style="animation-delay: 240ms; transform-origin: center;" />
+        </a>
+      
+
+        <a href="https://instagram.com/TONEDEAFF" target="_blank" rel="noopener noreferrer" cursor="pointer">
+          <image class="anim-target" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjMuMjUiIGhlaWdodD0iMjgiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iSU5TVEFHUkFNIj48dGl0bGU+SU5TVEFHUkFNPC90aXRsZT48ZyBzaGFwZS1yZW5kZXJpbmc9ImNyaXNwRWRnZXMiPjxyZWN0IHdpZHRoPSIxMjMuMjUiIGhlaWdodD0iMjgiIGZpbGw9IiNlNDQwNWYiLz48L2c+PGcgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IlZlcmRhbmEsR2VuZXZhLERlamFWdSBTYW5zLHNhbnMtc2VyaWYiIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIGZvbnQtc2l6ZT0iMTAwIj48aW1hZ2UgeD0iOSIgeT0iNyIgd2lkdGg9IjE0IiBoZWlnaHQ9IjE0IiBocmVmPSJkYXRhOmltYWdlL3N2Zyt4bWw7YmFzZTY0LFBITjJaeUJtYVd4c1BTSjNhR2wwWlNJZ2NtOXNaVDBpYVcxbklpQjJhV1YzUW05NFBTSXdJREFnTWpRZ01qUWlJSGh0Ykc1elBTSm9kSFJ3T2k4dmQzZDNMbmN6TG05eVp5OHlNREF3TDNOMlp5SStQSFJwZEd4bFBrbHVjM1JoWjNKaGJUd3ZkR2wwYkdVK1BIQmhkR2dnWkQwaVRUY3VNRE13TVM0d09EUmpMVEV1TWpjMk9DNHdOakF5TFRJdU1UUTROeTR5TmpRdE1pNDVNVEV1TlRZek5DMHVOemc0T0M0ek1EYzFMVEV1TkRVM05TNDNNaTB5TGpFeU1qZ2dNUzR6T0RjM0xTNDJOalV5TGpZMk56Y3RNUzR3TnpVZ01TNHpNelk0TFRFdU16Z3dNaUF5TGpFeU55MHVNamsxTkM0M05qTTRMUzQwT1RVMklERXVOak0yTlMwdU5UVXlJREl1T1RFMExTNHdOVFkwSURFdU1qYzNOUzB1TURZNE9TQXhMalk0T0RJdExqQTJNallnTkM0NU5EY3VNREEyTWlBekxqSTFPRFl1TURJd05pQXpMalkyTnpFdU1EZ3lOU0EwTGprME56TXVNRFl4SURFdU1qYzJOUzR5TmpRZ01pNHhORGd5TGpVMk16VWdNaTQ1TVRBM0xqTXdPQzQzT0RnNUxqY3lJREV1TkRVM015QXhMak00T0NBeUxqRXlNamd1TmpZM09TNDJOalUxSURFdU16TTJOU0F4TGpBM05ETWdNaTR4TWpnMUlERXVNemd1TnpZek1pNHlPVFVnTVM0Mk16WXhMalE1TmpFZ01pNDVNVE0wTGpVMU1pQXhMakkzTnpNdU1EVTJJREV1TmpnNE5DNHdOamtnTkM0NU5EWXlMakEyTWpjZ015NHlOVGM0TFM0d01EWXlJRE11TmpZNExTNHdNakEzSURRdU9UUTNPQzB1TURneE5DQXhMakk0TFM0d05qQTNJREl1TVRRM0xTNHlOalV5SURJdU9UQTVPQzB1TlRZek15NDNPRGc1TFM0ek1EZzJJREV1TkRVM09DMHVOeklnTWk0eE1qSTRMVEV1TXpnNE1TNDJOalV0TGpZMk9ESWdNUzR3TnpRMUxURXVNek0zT0NBeExqTTNPVFV0TWk0eE1qZzBMakk1TlRjdExqYzJNekl1TkRrMk5pMHhMall6Tmk0MU5USXRNaTQ1TVRJMExqQTFOaTB4TGpJNE1Ea3VNRFk1TWkweExqWTRPVGd1TURZekxUUXVPVFE0TFM0d01EWXpMVE11TWpVNE15MHVNREl4TFRNdU5qWTJPQzB1TURneE55MDBMamswTmpVdExqQTJNRGN0TVM0eU56azNMUzR5TmpRdE1pNHhORGczTFM0MU5qTXpMVEl1T1RFeE55MHVNekE0TkMwdU56ZzRPUzB1TnpJdE1TNDBOVFk0TFRFdU16ZzNOaTB5TGpFeU1qaERNakV1TWprNE1pQXhMak16SURJd0xqWXlPQzQ1TWpBNElERTVMamd6TnpndU5qRTJOU0F4T1M0d056UXVNekl4SURFNExqSXdNVGN1TVRFNU55QXhOaTQ1TWpRMExqQTJORFVnTVRVdU5qUTNNUzR3TURreklERTFMakl6TmkwdU1EQTFJREV4TGprM055NHdNREUwSURndU56RTRMakF3TnpZZ09DNHpNUzR3TWpFMUlEY3VNRE13TVM0d09ETTViUzR4TkRBeUlESXhMalk1TXpKakxURXVNVGN0TGpBMU1Ea3RNUzQ0TURVekxTNHlORFV6TFRJdU1qSTROeTB1TkRBNExTNDFOakEyTFM0eU1UWXRMamsyTFM0ME56Y3hMVEV1TXpneE9TMHVPRGsxTFM0ME1qSXRMalF4TnpndExqWTRNVEV0TGpneE9EWXRMamt0TVM0ek56Z3RMakUyTkRRdExqUXlNelF0TGpNMk1qUXRNUzR3TlRndExqUXhOekV0TWk0eU1qZ3RMakExT1RVdE1TNHlOalExTFM0d056SXRNUzQyTkRReUxTNHdOemt0TkM0NE5EZ3RMakF3TnkwekxqSXdNemN1TURBMU15MHpMalU0TXk0d05qQTNMVFF1T0RRNExqQTFMVEV1TVRZNUxqSTBOVFl0TVM0NE1EVXVOREE0TFRJdU1qSTRNaTR5TVRZdExqVTJNVE11TkRjMk1pMHVPVFl1T0RrMUxURXVNemd4Tmk0ME1UZzRMUzQwTWpFM0xqZ3hPRFF0TGpZNE1UUWdNUzR6TnpnekxTNDVNREF6TGpReU15MHVNVFkxTVNBeExqQTFOelV0TGpNMk1UUWdNaTR5TWpjdExqUXhOekVnTVM0eU5qVTFMUzR3TmlBeExqWTBORGN0TGpBM01pQTBMamcwT0MwdU1EYzVJRE11TWpBek15MHVNREEzSURNdU5UZ3pOUzR3TURVZ05DNDRORGsxTGpBMk1EZ2dNUzR4TmprdU1EVXdPQ0F4TGpnd05UTXVNalEwTlNBeUxqSXlPQzQwTURndU5UWXdPQzR5TVRZdU9UWXVORGMxTkNBeExqTTRNVFl1T0RrMUxqUXlNVGN1TkRFNU5DNDJPREUyTGpneE56WXVPVEF3TlNBeExqTTNPRGN1TVRZMU15NDBNakUzTGpNMk1UY2dNUzR3TlRZdU5ERTJPU0F5TGpJeU5qTXVNRFl3TWlBeExqSTJOVFV1TURjek9TQXhMalkwTlM0d056azJJRFF1T0RRNExqQXdOVGdnTXk0eU1ETXRMakF3TlRVZ015NDFPRE0wTFM0d05qRWdOQzQ0TkRndExqQTFNU0F4TGpFM0xTNHlORFVnTVM0NE1EVTFMUzQwTURnZ01pNHlNamswTFM0eU1UWXVOVFl3TkMwdU5EYzJNeTQ1TmkwdU9EazFOQ0F4TGpNNE1UUXRMalF4T1M0ME1qRTFMUzQ0TVRneExqWTRNVEV0TVM0ek56Z3pMamt0TGpReU1qUXVNVFkwT1MweExqQTFOemN1TXpZeE55MHlMakl5TmpJdU5ERTNOQzB4TGpJMk5UWXVNRFU1TlMweExqWTBORGd1TURjeUxUUXVPRFE1TXk0d056a3RNeTR5TURRMUxqQXdOeTB6TGpVNE1qVXRMakF3TmkwMExqZzBPQzB1TURZd09FMHhOaTQ1TlRNZ05TNDFPRFkwUVRFdU5EUWdNUzQwTkNBd0lERWdNQ0F4T0M0ek9TQTBMakUwTkdFeExqUTBJREV1TkRRZ01DQXdJREF0TVM0ME16Y2dNUzQwTkRJMFRUVXVPRE00TlNBeE1pNHdNVEpqTGpBd05qY2dNeTQwTURNeUlESXVOemN3TmlBMkxqRTFOVGNnTmk0eE56TWdOaTR4TkRreklETXVOREF5TmkwdU1EQTJOU0EyTGpFMU55MHlMamMzTURFZ05pNHhOVEEyTFRZdU1UY3pNeTB1TURBMk5TMHpMalF3TXpJdE1pNDNOekV0Tmk0eE5UWTFMVFl1TVRjMExUWXVNVFE1T0MwekxqUXdNeTR3TURZM0xUWXVNVFUySURJdU56Y3hMVFl1TVRRNU5pQTJMakUzTXpoTk9DQXhNaTR3TURjM1lUUWdOQ0F3SURFZ01TQTBMakF3T0NBekxqazVNakZCTXk0NU9UazJJRE11T1RrNU5pQXdJREFnTVNBNElERXlMakF3TnpjaUx6NDhMM04yWno0PSIvPjx0ZXh0IHRyYW5zZm9ybT0ic2NhbGUoLjEpIiB4PSI3MTYuMjUiIHk9IjE3NSIgdGV4dExlbmd0aD0iNzkyLjUiIGZvbnQtd2VpZ2h0PSJib2xkIj5JTlNUQUdSQU08L3RleHQ+PC9nPjwvc3ZnPg==" x="24" y="82" width="122" height="28" preserveAspectRatio="xMinYMid meet"  style="animation-delay: 360ms; transform-origin: center;" />
+        </a>
+      
+
+        <a href="https://twitch.tv/deaftonedd" target="_blank" rel="noopener noreferrer" cursor="pointer">
+          <image class="anim-target" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" x="156" y="82" width="100" height="28" preserveAspectRatio="xMinYMid meet"  style="animation-delay: 480ms; transform-origin: center;" />
+        </a>
+      
+  
+  
+    </g>
+  
+
+    <g transform="translate(408, 652)" id="widget-widget_30ade482-e616-4b29-bce7-b68162110969">
+
+      
+      
+      <rect class="" x="0" y="0" width="360" height="168" fill="#060606" stroke="#252525" stroke-width="1" rx="3" />
+      
+      
+    
+    <svg width="328" height="136" x="16" y="16" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#141414" rx="6" ry="6" stroke="#333" stroke-dasharray="4" />
+            <text x="50%" y="50%" fill="#888888" font-family="monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">Failed to load widget</text>
+          </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 736)" id="widget-widget_9ba7c625-3cb1-4a2b-bd60-abca95595dcd">
+
+      
+      
+      <rect class="" x="0" y="0" width="408" height="40" fill="#060606" stroke="#252525" stroke-width="1" rx="3" />
+      
+      <line x1="0" y1="20" x2="408" y2="20" stroke="#00ffff" stroke-width="4" />
+  
+    </g>
+  
+</svg>
