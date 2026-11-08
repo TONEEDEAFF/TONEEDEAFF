@@ -1,8 +1,9 @@
 
+
 <p align="left">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e9ef7c8c-ba59-45ef-852b-def94203474d" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e9ef7c8c-ba59-45ef-852b-def94203474d" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/e9ef7c8c-ba59-45ef-852b-def94203474d" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f75f5b99-07d9-40a7-8212-d147f51fe4a2" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f75f5b99-07d9-40a7-8212-d147f51fe4a2" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/f75f5b99-07d9-40a7-8212-d147f51fe4a2" 
    
 <p align="left" width="300" height="300" hspace="20"> 
 
@@ -20,9 +21,9 @@
 $$\color{#c40e08}{\text{<sup>17, 04/23<sup>}}$$
  
 <p align="right">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bcf452ff-8f91-45ce-8cb1-0fb6aecbc864" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bcf452ff-8f91-45ce-8cb1-0fb6aecbc864" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/bcf452ff-8f91-45ce-8cb1-0fb6aecbc864" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7ff882e3-bd14-4ffd-94a9-2c27f52b5296" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/7ff882e3-bd14-4ffd-94a9-2c27f52b5296" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/7ff882e3-bd14-4ffd-94a9-2c27f52b5296" 
 <p align="left" width="300" height="300" hspace="20">
   
  ---
