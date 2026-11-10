@@ -30,3 +30,9 @@ $$\color{#c40e08}{\text{<sup>17, 04/23<sup>}}$$
 <a href="https://decaying.xyz/tonedeaf" target="_blank"><sup>decaying<sup></a> || <a href="https://deaftonees.carrd.co/" target="_blank"><sup>Carrd<sup></a> || <a href="https://pronouns.cc/@TONEDEAFF" target="_blank"><sup>pronouns.cc<sup></a> || <a href="https://hashtagchemicaltones.atabook.org/" target="_blank"><sup>Atabook<sup></a> 
 
 
+
+
+<p align="left" hspace="30"> 
+ <a href="https://github.com/THE-TEMPIST" target="_blank"><sup>The Tempist's Reaper nom!</sup></a>
+
+
