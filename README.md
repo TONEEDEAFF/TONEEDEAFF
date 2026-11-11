@@ -1,5 +1,11 @@
 
 
+<p align="left" hspace="30"> 
+ <a href="https://github.com/THE-TEMPIST" target="_blank"><sup>The Tempist's Reaper nom!</sup></a>
+ <p align="left" hspace="30"> 
+ <a href="https://github.com/Knox-Event" target="_blank"><sup>Knox event's Reaper nom!</sup></a>
+
+
 <p align="left">
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f75f5b99-07d9-40a7-8212-d147f51fe4a2" width="300">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f75f5b99-07d9-40a7-8212-d147f51fe4a2" width="300">
@@ -32,7 +38,5 @@ $$\color{#c40e08}{\text{<sup>17, 04/23<sup>}}$$
 
 
 
-<p align="left" hspace="30"> 
- <a href="https://github.com/THE-TEMPIST" target="_blank"><sup>The Tempist's Reaper nom!</sup></a>
 
 
