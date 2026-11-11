@@ -10,8 +10,8 @@
 
 
 <p align="left">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c675df40-4630-43a5-aaab-ca2b876837cf" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c675df40-4630-43a5-aaab-ca2b876837cf" width="300">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c675df40-4630-43a5-aaab-ca2b876837cf" width="200">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c675df40-4630-43a5-aaab-ca2b876837cf" width="200">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/c675df40-4630-43a5-aaab-ca2b876837cf" 
    
 <p align="left" hspace="20"> 
@@ -23,7 +23,7 @@
 > [!WARNING]
 > <sup>The reaper calls.<sup>
 
- $$\color{#09dbd4}{\text{<sup>PTSD,GAD,MDD<sup>}}$$
+ $$\color{#09dbd4}{\text{<sup>IWC ; PTSD,GAD,MDD<sup>}}$$
 
 ---
 <p align="left">
