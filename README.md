@@ -1,9 +1,12 @@
 
 
-<p align="left" hspace="30"> 
- <a href="https://github.com/THE-TEMPIST" target="_blank"><sup>The Tempist's Reaper nom!</sup></a>
- <p align="left" hspace="30"> 
- <a href="https://github.com/Knox-Event" target="_blank"><sup>Knox event's Reaper nom!</sup></a>
+| Reaper nominations |
+| :--- |
+| <p align="left" hspace="30"> 
+ <a href="https://github.com/THE-TEMPIST" target="_blank"><sup>The Tempist's Reaper nom!</sup></a> 
+ |<p align="left" hspace="30"> 
+ <a href="https://github.com/Knox-Event" target="_blank"><sup>Knox event's Reaper nom!</sup></a> |
+
 
 
 <p align="left">
