@@ -10,18 +10,18 @@
 
 
 <p align="left">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f75f5b99-07d9-40a7-8212-d147f51fe4a2" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f75f5b99-07d9-40a7-8212-d147f51fe4a2" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/f75f5b99-07d9-40a7-8212-d147f51fe4a2" 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c675df40-4630-43a5-aaab-ca2b876837cf" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c675df40-4630-43a5-aaab-ca2b876837cf" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/c675df40-4630-43a5-aaab-ca2b876837cf" 
    
-<p align="left" width="300" height="300" hspace="20"> 
+<p align="left" width="400" height="300" hspace="20"> 
 
 
 <p align="left">
  $$\color{#c40e08}{\text{<sup>DEAFF/TONE<sup>}}$$
   
 > [!WARNING]
-> <sup>Hunting Dog<sup>
+> <sup>The reaper calls.<sup>
 
  $$\color{#09dbd4}{\text{<sup>PTSD,GAD,MDD<sup>}}$$
 
@@ -30,10 +30,10 @@
 $$\color{#c40e08}{\text{<sup>17, 04/23<sup>}}$$
  
 <p align="right">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7ff882e3-bd14-4ffd-94a9-2c27f52b5296" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/7ff882e3-bd14-4ffd-94a9-2c27f52b5296" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/7ff882e3-bd14-4ffd-94a9-2c27f52b5296" 
-<p align="left" width="300" height="300" hspace="20">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/fcbea9a5-9c1e-44f7-a734-2526e1916da5" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fcbea9a5-9c1e-44f7-a734-2526e1916da5" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/fcbea9a5-9c1e-44f7-a734-2526e1916da5" 
+<p align="left" width="400" height="200" hspace="20">
   
  ---
 <a href="https://decaying.xyz/tonedeaf" target="_blank"><sup>decaying<sup></a> || <a href="https://gabrielinphernal.carrd.co/" target="_blank"><sup>Carrd<sup></a> || <a href="https://pronouns.cc/@TONEDEAFF" target="_blank"><sup>pronouns.cc<sup></a> || <a href="https://hashtagchemicaltones.atabook.org/" target="_blank"><sup>Atabook<sup></a> 
