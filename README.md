@@ -27,7 +27,7 @@ $$\color{#c40e08}{\text{<sup>17, 04/23<sup>}}$$
 <p align="left" width="300" height="300" hspace="20">
   
  ---
-<a href="https://decaying.xyz/tonedeaf" target="_blank"><sup>decaying<sup></a> || <a href="https://deaftonees.carrd.co/" target="_blank"><sup>Carrd<sup></a> || <a href="https://pronouns.cc/@TONEDEAFF" target="_blank"><sup>pronouns.cc<sup></a> || <a href="https://hashtagchemicaltones.atabook.org/" target="_blank"><sup>Atabook<sup></a> 
+<a href="https://decaying.xyz/tonedeaf" target="_blank"><sup>decaying<sup></a> || <a href="https://gabrielinphernal.carrd.co/" target="_blank"><sup>Carrd<sup></a> || <a href="https://pronouns.cc/@TONEDEAFF" target="_blank"><sup>pronouns.cc<sup></a> || <a href="https://hashtagchemicaltones.atabook.org/" target="_blank"><sup>Atabook<sup></a> 
 
 
 
