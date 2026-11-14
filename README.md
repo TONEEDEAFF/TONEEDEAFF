@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bd0d5ce4-e721-4b41-8ce1-4eb06aadb856" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bd0d5ce4-e721-4b41-8ce1-4eb06aadb856" width="400" />
 
 
 
@@ -22,23 +22,18 @@ $$\color{#c40e08}{\text{<sup>c-link doubles iwc<sup>}}$$
 
 
 --------------------
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/b4af7ecf-de09-45e8-805e-20b0c43da40e" width="45%" />
-  <img src="https://github.com/user-attachments/assets/4f44cfd6-1443-4744-b234-9b2646202418" width="45%" />
-</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5414ee6b-bb23-4406-9352-e60d2736f376" width="400" />
    
-<p align="left" hspace="20"> 
 
 
 <p align="left">
- $$\color{#c40e08}{\text{<sup>number one coil link<sup>}}$$
+ $$\color{#c40e08}{\text{<sup>Number One Coil Link<sup>}}$$
 
  
 
-  <p align="left">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b4af7ecf-de09-45e8-805e-20b0c43da40e" width="200">
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b4af7ecf-de09-45e8-805e-20b0c43da40e" width="200">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/b4af7ecf-de09-45e8-805e-20b0c43da40e" 
+ 
 
 
 
