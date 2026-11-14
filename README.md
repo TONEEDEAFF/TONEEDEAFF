@@ -1,18 +1,12 @@
 
-|  nominations |
-| :--- |
-| <p align="left" hspace="30"> 
- <a href="https://github.com/THE-TEMPIST" target="_blank"><sup>The Tempist's Reaper nom!</sup></a> 
- |<p align="left" hspace="30"> 
- <a href="https://github.com/Knox-Event" target="_blank"><sup>Knox event's Reaper nom!</sup></a> | 
 
 
-<p align="right">
+<p align="left">
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bc1dbb48-8db3-4cac-a04d-7ddf468d5fe6" width="100">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bc1dbb48-8db3-4cac-a04d-7ddf468d5fe6" width="100">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/bc1dbb48-8db3-4cac-a04d-7ddf468d5fe6" 
 
- <p align="center">
+ <p align="right">
   <img src="https://github.com/user-attachments/assets/4f44cfd6-1443-4744-b234-9b2646202418" width="45%" />
 </p>
 
