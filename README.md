@@ -9,10 +9,18 @@
 
 
 
+
 <p align="left">
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/bc1dbb48-8db3-4cac-a04d-7ddf468d5fe6" width="200">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bc1dbb48-8db3-4cac-a04d-7ddf468d5fe6" width="200">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/bc1dbb48-8db3-4cac-a04d-7ddf468d5fe6" 
+
+
+<p align="right">
  <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4f44cfd6-1443-4744-b234-9b2646202418" width="200">
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4f44cfd6-1443-4744-b234-9b2646202418" width="200">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/4f44cfd6-1443-4744-b234-9b2646202418" 
+ 
    
 <p align="left" hspace="20"> 
 
