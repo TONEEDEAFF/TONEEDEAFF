@@ -29,7 +29,7 @@ $$\color{#124A41}{\text{<sup>c-link doubles iwc<sup>}}$$
 
 
 <p align="left">
- $$\color{#124A41}{\text{<sup>Pt's reaper & Ghost trust<sup>}}$$
+ $$\color{#124A41}{\text{<sup>Pt's reaper and Ghost trust<sup>}}$$
 
  
 
