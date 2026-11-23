@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1cbf5a4d-8387-4a23-9ca8-d3126ff7a1c6" width="400" />
+  <img src="https://github.com/user-attachments/assets/c7f2eff2-bdd9-4656-b8a4-ac1f27ec6605" width="400" />
 
 
 
@@ -24,12 +24,12 @@ $$\color{#124A41}{\text{<sup>c-link doubles iwc<sup>}}$$
 --------------------
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0d96074e-d8f8-414c-8e08-4d752d978cc7" width="400" />
+  <img src="https://github.com/user-attachments/assets/5302301c-cec3-47d4-8fe1-9584292b4b69" width="400" />
    
 
 
 <p align="left">
- $$\color{#124A41}{\text{<sup>Number One Coil Link<sup>}}$$
+ $$\color{#124A41}{\text{<sup>Pt's reaper & Ghost trust<sup>}}$$
 
  
 
