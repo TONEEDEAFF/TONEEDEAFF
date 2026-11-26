@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a href="https://decaying.xyz/tonedeaf" target="_blank"><sup>decaying<sup></a> || <a href="https://trencheddogs.carrd.co/" target="_blank"><sup>Carrd<sup></a> || <a href="https://pronouns.cc/@TONEDEAFF" target="_blank"><sup>pronouns.cc<sup></a> || <a href="https://hashtagchemicaltones.atabook.org/" target="_blank"><sup>Atabook<sup></a> 
+<a href="https://decaying.xyz/tonedeaf" target="_blank"><sup>decaying<sup></a> || <a href="https://ghosteddogs.carrd.co/#" target="_blank"><sup>Carrd<sup></a> || <a href="https://pronouns.cc/@TONEDEAFF" target="_blank"><sup>pronouns.cc<sup></a> || <a href="https://hashtagchemicaltones.atabook.org/" target="_blank"><sup>Atabook<sup></a> 
 
 
 <p align="center">
